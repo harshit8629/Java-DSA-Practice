@@ -1,1 +1,7 @@
-# Java-DSA-Practice
+# Java DSA Practice 🚀
+
+This repository contains my daily DSA practice in Java.
+
+## 📅 Progress
+
+- Day 1: Arrays 
