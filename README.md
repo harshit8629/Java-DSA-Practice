@@ -8,3 +8,4 @@ This repository contains my daily DSA practice in Java.
 - Day 2: Arrays(logic)
 - Day 3: Strings
 - Day 4: Strings
+- Day 5: Functions
