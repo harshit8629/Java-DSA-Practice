@@ -9,4 +9,5 @@ This repository contains my daily DSA practice in Java.
 - Day 3: Strings
 - Day 4: Strings
 - Day 5: Functions
-- Day 6: Nested loops
+- Day 6: Nested Loops
+- Day 7: Nested Loops
