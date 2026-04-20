@@ -14,3 +14,4 @@ This repository contains my daily DSA practice in Java.
 - Day 8: Nested Loops
 - Day 9: Recursion
 - Day 10: Constructors
+- Day 11: Inheritance
