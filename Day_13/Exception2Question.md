@@ -11,7 +11,7 @@ ArrayIndexOutOfBoundsException
 
 Example:
 
-Input:
+Input
 a = 10, b = 0, index = 5
 
 Output:
