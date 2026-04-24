@@ -19,3 +19,4 @@ This repository contains my daily DSA practice in Java.
 - Day 13: EXception Handling (2 Day)
 - Day 14: Functions
 - Day 15: Functions
+- Day 16: Array List
