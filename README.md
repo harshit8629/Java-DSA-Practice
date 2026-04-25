@@ -20,3 +20,4 @@ This repository contains my daily DSA practice in Java.
 - Day 14: Functions
 - Day 15: Functions
 - Day 16: Array List
+- Day 17: Array List
