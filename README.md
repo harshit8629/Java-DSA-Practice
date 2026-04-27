@@ -22,3 +22,4 @@ This repository contains my daily DSA practice in Java.
 - Day 16: Array List
 - Day 17: Array List
 - Day 18: HashSet
+- Day 19: HashSet2
