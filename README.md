@@ -27,4 +27,5 @@ This repository contains my daily DSA practice in Java.
 - Day 21: HashMap, HashSet, Arraylist
 - Day 22: HashMap, HashSet, Arraylist
 - Day 23: Encapsulation
-- Day 24: Encapsulation
+- Day 24: Encapsulation 2
+- Day 25: Encapsultaion 3
