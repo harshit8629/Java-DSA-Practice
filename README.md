@@ -30,4 +30,5 @@ This repository contains my daily DSA practice in Java.
 - Day 24: Encapsulation 2
 - Day 25: Encapsultaion 3
 - Day 26: OOPS Questions
-- Day 27:   OOPS Questions 2
+- Day 27: OOPS Questions 2
+- Day 28: Mini Project for basic java practice
