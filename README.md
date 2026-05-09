@@ -34,3 +34,4 @@ This repository contains my daily DSA practice in Java.
 - Day 28: Mini Project for basic java practice
 - Day 29: Polymorphism
 - Day 30: Polymorphism 2
+- Day 31: Encapsulation 4
