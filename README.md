@@ -35,3 +35,4 @@ This repository contains my daily DSA practice in Java.
 - Day 29: Polymorphism
 - Day 30: Polymorphism 2
 - Day 31: Encapsulation 4
+- Day 32: Inheritance 2
